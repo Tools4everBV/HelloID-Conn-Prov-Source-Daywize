@@ -86,7 +86,7 @@ The connector does not filter out inactive persons, as there is no API parameter
 
 > ℹ️ _For more information on how to configure a HelloID PowerShell connector, please refer to our [documentation](https://docs.helloid.com/hc/en-us/articles/360012557600-Configure-a-custom-PowerShell-source-system) pages_
 
-> ℹ️ _If you need help, feel free to ask questions on our [forum](https://forum.helloid.com/forum/helloid-connectors/provisioning/5176-helloid-provisioning-source-inplanning)
+> ℹ️ _If you need help, feel free to ask questions on our [forum](https://forum.helloid.com/forum/helloid-connectors/provisioning/5260-helloid-conn-prov-source-daywize) 
 
 ## HelloID docs
 
